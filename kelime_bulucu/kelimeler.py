@@ -5534,4 +5534,3 @@ my_word=["ABACI",
 "ZÜPPE",
 "ZÜRRA",
 "ZÜYUF"]
-#print(random.choice(my_dict))
