@@ -65,7 +65,7 @@ Bu projenin amacı, kullanıcının kelime tahmin yeteneğini test etmelerini sa
   
 ## Lisans
 
-This application is open-source and distributed under the MIT License. For more information, refer to the
+Bu uygulama açık kaynaklıdır ve MIT Lisansı altında dağıtılmaktadır. Daha fazla bilgi için
 
 [MIT](https://github.com/yusufyasar13/kelime-bulucu/blob/main/kelime_bulucu/LICENSE)
 
