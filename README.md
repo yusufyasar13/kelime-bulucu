@@ -53,7 +53,9 @@ Bu projenin amacı, kullanıcının kelime tahmin yeteneğini test etmelerini sa
     
     5) Belirli bir tahmin hakkınız vardır. Tahmin hakkınız bittiğinde ya da kelimeyi doğru tahmin ettiğinizde oyun sonlanır.
 
-    
+- **Kırmızı:** Doğru olmayan ve gerçek sayıda bulunmayan harfler.
+- **Mavi:** Doğru olan ancak doğru konumda olmayan harfler.
+- **Koyu Yeşil:** Doğru ve doğru konumda olan harfler.   
   
 ## Ekran Görüntüleri
 
