@@ -34,6 +34,8 @@ Bu projenin amacı, kullanıcının kelime tahmin yeteneğini test etmelerini sa
   
 ## Kurulum 
 
+    ********** Birinci Yol **********
+    
     1) Sisteminize Python 3.x'i kurun.
 
     2) Bu projenin bulunduğu repoyu klonlayın.
@@ -45,8 +47,22 @@ Bu projenin amacı, kullanıcının kelime tahmin yeteneğini test etmelerini sa
 ```bash 
 python kelime_bulucu.py
 ```
-    
 
+    ********** İkinci Yol **********
+
+    1) Bu projenin bulunduğu repoyu klonlayın veya zip klasörü şeklinde indirin.
+
+    2) Zip halinde indirilen klasörü ayıklayın.
+
+    3) Terminali kullanarak repo dizinine gidin.
+
+    4) Oyunu başlatmak için aşağıdaki komutu çalıştırın:
+    
+```bash 
+kelime_bulucu.exe
+```
+
+    5) Klasör içerisindeki exe dosyasına iki kez tıklayarak da çalıştırabilirsiniz.
     
 ## Oyunun Nasıl Oynandığı
 
